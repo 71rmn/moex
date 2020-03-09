@@ -1,0 +1,6 @@
+11.0
+4
+1   SQLCHAR     0       25      ";"    1     dt               ""
+2   SQLCHAR     0       20      ";"    2     ticker           ""
+3   SQLCHAR     0       15      ";"    3     amount           ""
+4   SQLCHAR     0       15      "\r\n" 4     price            ""
